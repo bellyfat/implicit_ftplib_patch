@@ -1,2 +1,2 @@
-"# implicit_ftplib_patch" 
-This is a patch to allow the Python 3.x ftplib library to connect to an implicitly defined TLS secured SFTP server.
+"1.0 implicit_ftplib_patch" 
+Extends the Python 3.x ftplib library to allow an implicitly defined TLS secured SFTP server connection.
